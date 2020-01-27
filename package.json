@@ -1,0 +1,12 @@
+{
+  "name": "test-durable-entities-js-class",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "durable-functions": "file:../../ms/azure-functions-durable-js/lib/src"
+  },
+  "devDependencies": {}
+}

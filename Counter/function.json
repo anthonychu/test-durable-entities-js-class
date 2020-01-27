@@ -1,0 +1,9 @@
+{
+  "bindings": [
+    {
+      "type": "entityTrigger",
+      "name": "context",
+      "direction": "in"
+    }
+  ]
+}
